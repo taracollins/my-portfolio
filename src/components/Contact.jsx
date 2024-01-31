@@ -3,7 +3,7 @@ import React from "react";
 export default function Contact() {
   return (
     <section id="contact" className="relative">
-      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
+      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap h-42">
         <div className="lg:w-3/4 md:w-3/4 bg-gunmetal rounded-lg overflow-hidden sm:mr-10 p-20 flex items-end justify-start relative">
           <iframe
             width="100%"

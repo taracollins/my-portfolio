@@ -48,7 +48,7 @@ export default function Navbar() {
           className="text-2xl inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gunmetal rounded text-base mt-4 md:mt-0"
         >
           <FontAwesomeIcon icon={faFile} className="w-7 h-7 ml-1 pr-1" />
-          Resume
+          Résumé
         </a>
         <a
           href="mailto:tarafcollins@gmail.com"
