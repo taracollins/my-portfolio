@@ -29,7 +29,7 @@ export default function About() {
             AdaptiveMobile Security.
           </p>
           <p className="mb-8 leading-relaxed">
-            I'm currently in search of new challenges and opportunities.
+            I've recently relocated to Vancouver, British Columbia, and I'm currently in search of new opportunities.
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

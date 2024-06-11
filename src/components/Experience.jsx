@@ -34,7 +34,7 @@ export default function Experience() {
                 Software Engineer
               </h2>
               <h4 className="vertical-timeline-element-subtitle">Zalando</h4>
-              <p>Scala, Redis, DynamoDB, Postgres, Kubernetes, AWS</p>
+              <p>Scala, Docker, Redis, DynamoDB, Postgres, Kubernetes, AWS</p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
@@ -45,7 +45,7 @@ export default function Experience() {
                 Junior Software Engineer
               </h2>
               <h4 className="vertical-timeline-element-subtitle">Zalando</h4>
-              <p>Scala, Redis, DynamoDB, Postgres, Kubernetes, AWS</p>
+              <p>Scala, Docker, Redis, DynamoDB, Postgres, Kubernetes, AWS</p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
